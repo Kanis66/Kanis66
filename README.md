@@ -10,7 +10,7 @@ de dépannage pour les particuliers et petites entreprises. Après 17 ans d'acti
 Mon projet professionnel est de continuer vers un parcours de chef de projet SI.
 
 
-### Compétences :
+## Compétences :
 
 Au cours de mon parcours professionnel, j'ai pu acquérir la maîtrise de différents outils et systèmes permettant la gestion d'un parc informatique : 
 
@@ -37,7 +37,7 @@ Quelques exemples d'outils et systèmes :
 - Python, Bash, Yaml                   Réalisation de scripts.
 
 
-### Dépôts :
+## Dépôts :
 
 Mes différents dépôts contiennent mes réalisations élaborées au cours des différents projets, que j'ai eu à gérer, au cours de ma formation ou de ma vie professionnelle.
 
