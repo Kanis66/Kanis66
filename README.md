@@ -27,7 +27,6 @@ Quelques exemples d'outils et systèmes :
 - Automatisation                       Tâches d'installation et de paramétrage de serveur Windows et Linux avec ANSIBLE (création de rôles, modules et playbooks).
 - Serveurs Linux Debian                Création et paramétrage de serveurs sous Debian (DHCP, NTP, LDAP, Apache, DNS, Proxy).
 - Base de données                      Création et paramétrage de bases de données MariaDB.
-
 - VirtualBox                           Création de machines virtuelles intégrées dans GNS3.
 - GNS3                                 Logiciel de simulation réseau utilisé pour la création d'infrastructures.
 - MobaXterm                            Utilisé pour la gestion à distance de différents systèmes.
