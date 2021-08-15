@@ -3,14 +3,14 @@
 # PRESENTATION
 
 
-## Historique :
+## Mon parcours :
 
 Passionné d'informatique depuis l'enfance, j'ai tout naturellement suivi des études dans cette voie. Après mon BTS informatique industrielle, j'ai créé ma propre entreprise
 de dépannage pour les particuliers et petites entreprises. Après de nombreuses années d'activité, j'ai décidé d'évoluer dans mon métier en suivant une formation de deux ans en alternance en tant qu'administrateur infrastructure et cloud. Je suis donc actuellement technicien informatique niveau 1 et 2 dans une société et je continue mon parcours AIC.
 Mon projet professionnel est de continuer vers un parcours de chef de projet SI.
 
 
-## Compétences :
+## Mes compétences :
 
 Au cours de mon parcours professionnel, j'ai pu acquérir la maîtrise de différents outils et systèmes permettant la gestion d'un parc informatique : 
 
@@ -37,7 +37,7 @@ Quelques exemples d'outils et systèmes :
 - Python, Bash, Yaml                   Réalisation de scripts.
 
 
-## Dépôts :
+## Mes dépôts :
 
 Mes différents dépôts contiennent mes réalisations élaborées au cours des différents projets, que j'ai eu à gérer, au cours de ma formation ou de ma vie professionnelle.
 
